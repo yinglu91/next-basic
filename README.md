@@ -1,3 +1,11 @@
+https://www.youtube.com/watch?v=AS79oJ3Fcf0
+Next.js with React Testing Library, Jest, TypeScript
+
+https://testing-library.com/docs/react-testing-library/intro
+
+$ npm i -D @testing-library/jest-dom@5.16.5 @testing-library/react @testing-library/user-event jest jest-environment-jsdom ts-jest
+$ npm i -D eslint-plugin-jest-dom eslint-plugin-testing-library
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
