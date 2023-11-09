@@ -2,7 +2,7 @@
 const MyComponent = () => {
   return (
     <div>
-      <h1>Hellow World</h1>
+      <h1>Hello World123</h1>
     </div>
   )
 }

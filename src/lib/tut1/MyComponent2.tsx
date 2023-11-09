@@ -5,7 +5,7 @@ const MyComponent2 = () => {
   return (
     <button
       onClick={() => {
-        console.log('Hellow World')
+        console.log('Hello World')
       }}
     >
       Click me

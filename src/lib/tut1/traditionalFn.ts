@@ -1,13 +1,13 @@
 const traditionalFn = () => {
   // -- traditional function definition
-  function add0(a: number, b: number) {
+  function add(a: number, b: number) {
     return a + b
   }
 
   // call / invoke / execute function
-  const result0 = add0(2, 3)
+  const result = add(12, 13)
 
-  console.log(result0) // 5
+  console.log(result) // 25
 }
 
 export default traditionalFn

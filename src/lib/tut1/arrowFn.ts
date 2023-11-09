@@ -5,7 +5,7 @@ const arrowFn = () => {
   }
 
   // call / invoke function
-  const result = add(2, 3)
+  const result = add(20, 3)
 
   console.log(result) // 5
 }

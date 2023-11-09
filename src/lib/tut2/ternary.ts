@@ -6,20 +6,20 @@ const ternary = () => {
   // *******************
   // also see: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_operator
 
-  const numberOfMovies = 1
+  const numberOfMovies = 0
   const hasMovies = numberOfMovies > 0
 
   if (hasMovies) {
-    console.log('We found movies.')
+    console.log('11 We found movies.')
   } else {
-    console.log('No movies found.')
+    console.log('11 No movies found.')
   }
 
   {
-    const numberOfMovies = 1
+    const numberOfMovies = 0
     const hasMovies = numberOfMovies > 0
 
-    const result = hasMovies ? 'We found movies.' : 'No movies found.'
+    const result = hasMovies ? '22 We found movies.' : '22 No movies found.'
     console.log(result)
   }
 

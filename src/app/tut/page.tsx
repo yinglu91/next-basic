@@ -1,6 +1,6 @@
 'use client'
 
-import fn from '@/lib/tut2/ternary'
+import fn from '@/lib/tut1/arrowFn'
 
 // http://localhost:3000/tut
 const BasicTutorialPage = () => {
